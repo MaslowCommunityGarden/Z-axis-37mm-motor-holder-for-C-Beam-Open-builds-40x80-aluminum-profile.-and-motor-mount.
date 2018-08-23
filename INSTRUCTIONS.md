@@ -1,7 +1,5 @@
-Edit this file to add assembly instructions
+download the STL file and print it out on a 3d printer. Before printing out make sure you meausure the distance of your particular z axis motor needs. Increase or decrease model's height to compensate. to mount it to the top of the C-beam you will need to buy two metric screws which are M5x0.8mm (https://www.mcmaster.com/#91290a198/=1ea9h1n)
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
+the second dxf file is an adapter plate who's purpose is to allow a 500W motor to be mounted to the Cbeam's gantry plate (the thing that moves the spindle up and down)
 
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+There are two methods to making this spindle adapter plate. #1 is to send to a laser cutter who can cut out the 3.5x2" piece of aluminum that is 3/8" thick. Alternatively you can print out the DXF file to size and buy a piece of aluminum bar. tape the paper template over the aluminum bar and drill the 4 mounting holes and the 4 motor mount holes. Then tap the four holes by hand to fit the motor mount bolts. Most are 6mm screws. This will fit the 55mm/57mm 500w Chinese Brushless motors you can find on ebay or aliexpress.com
